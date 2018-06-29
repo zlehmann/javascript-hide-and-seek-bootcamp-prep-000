@@ -7,5 +7,5 @@ function nestedTarget() {
 }
 
 function increaseRankBy(n) {
-  rankedList = document.querySelectorAll('')
+  rankedList = document.querySelectorAll('ul.ranked-list li')
 }
