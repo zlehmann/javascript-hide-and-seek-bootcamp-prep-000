@@ -1,3 +1,3 @@
-function nestedTarget(selector) {
-  return document.getElementsByID(selector)
+function getFirstSelector(selector) {
+  
 }
