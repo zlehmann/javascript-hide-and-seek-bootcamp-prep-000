@@ -1,3 +1,3 @@
 function nestedTarget(selector) {
-  var output = document.getElementBy
+  var output = document.getElementsByID('')
 }
